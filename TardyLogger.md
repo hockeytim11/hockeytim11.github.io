@@ -13,14 +13,21 @@ For a full list of features and configuration instructions see the README on the
 https://github.com/hockeytim11/TardyLogger
 
 ## Privacy Policy
+Tardy Logger does not share any information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
+
+
+# API Access Details
 Tardy Logger uses google sheets to pull the Student data into memory for searching and printing passes. In addition,
 it will append a row to a google sheet specified in the app config (TardyLogger.exe.config). This application does not 
 collect any data from users. All data access is only used for feature support in the application and no data is collected 
-by the developer of this application. Google sheets API does collect some minimal usage statistics as part of their API and
+by the developer of this application. 
+
+Google sheets API does collect some minimal usage statistics as part of their API and
 those statistics are made available to me for purposes of API usage tracking.
 
 The application will promt you for access on first launch and saves the refresh token locally. The only connections made are 
 from the local application directly to googles servers. The permissions needed for the features grant access to all of your
 google sheets, but the application will only ever interact with the configured in the application configuration file.
+
 
 
