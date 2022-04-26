@@ -9,10 +9,10 @@ It allows for quickly searching and printing Hall Passes on a thermal printer. I
 For a full list of features and configuration instructions see the README on the repository.
 <a href="https://github.com/hockeytim11/TardyLogger/blob/main/README.md" title="Tardy Logger README">README</a>
 
-## Code Repository
+# Code Repository
 https://github.com/hockeytim11/TardyLogger
 
-## Privacy Policy
+# Privacy Policy
 Tardy Logger does not share any information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
 
 
